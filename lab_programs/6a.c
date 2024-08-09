@@ -1,4 +1,4 @@
-Program to demonstrate the creation of Zombie and Orphan processes.
+// Program to demonstrate the creation of Zombie and Orphan processes.
 /*program to inplement the zombie process*/
 #include <stdio.h>
 #include <stdlib.h>
