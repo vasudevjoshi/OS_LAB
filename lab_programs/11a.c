@@ -18,9 +18,10 @@ void main(int argc, char *argv[])
     pthread_join(T1, NULL);
     pthread_join(T2, NULL);
 
-    printf("Inside main thread\n");
+    printf("Inside main thread\n"); 
     printf("sum=%d\n", sm);
     printf("product=%d\n", prod);
+    
 }
 void *sum(void *parm)
 {

@@ -16,4 +16,3 @@ for ((num=2; num<=n; num++)); do
         echo "$num"
     fi
 done
-
